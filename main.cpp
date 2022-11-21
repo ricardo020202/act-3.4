@@ -3,6 +3,7 @@
 // File: main.cpp
 // Author: José Ricardo Rosales Castañeda - A01709449
 // Author: Uri Gopar Morales - A01709413
+// Author: Carlos Hernández Arciniega - A01709003
 // Date: 20/11/2022
 //
 // =================================================================
